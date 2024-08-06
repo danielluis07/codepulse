@@ -13,7 +13,7 @@ import { Toaster } from "react-hot-toast";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Code Pulse",
+  title: "CodePulse",
 };
 
 export default function RootLayout({
