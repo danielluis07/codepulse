@@ -23,6 +23,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <GoogleTagManager gtmId="GTM-W77M4H2B" />
       <body
         className={`${inter.className} bg-[#030014] overflow-y-scroll overflow-x-hidden`}>
         <ThemeContextProvider>
