@@ -41,7 +41,7 @@ export const HeroContent = () => {
         <motion.a
           variants={slideInFromLeft(1)}
           id="852147"
-          href="https://whatsa.me/5547988944114"
+          href="https://whatsa.me/5547988744602"
           className="py-2 button-primary text-center text-white cursor-pointer rounded-lg max-w-[200px]">
           Entre em Contato
         </motion.a>

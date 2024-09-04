@@ -35,7 +35,7 @@ export const Navbar = () => {
         </div>
 
         <div className="flex items-center space-x-4">
-          <a href="https://whatsa.me/5547988944114" aria-label="WhatsApp">
+          <a href="https://whatsa.me/5547988744602" aria-label="WhatsApp">
             <Image
               src={"/whats.jpg"}
               alt="WhatsApp"
@@ -44,7 +44,7 @@ export const Navbar = () => {
               className="rounded-full overflow-hidden"
             />
           </a>
-          <span className="text-white maxlg:hidden">(47) 98894-4114</span>
+          <span className="text-white maxlg:hidden">(47) 98874-4602</span>
         </div>
       </div>
     </div>
