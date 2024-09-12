@@ -33,7 +33,7 @@ export const HeroContent = () => {
         <motion.p
           variants={slideInFromLeft(0.8)}
           className="text-lg text-gray-400 my-5 max-w-[600px]">
-          Na Assunção Web, nossa missão é transformar a visão digital dos nossos
+          Na CodePulse, nossa missão é transformar a visão digital dos nossos
           clientes em realidade. Com anos de experiência em design e
           desenvolvimento web, oferecemos soluções personalizadas para empresas
           de todos os tamanhos.
